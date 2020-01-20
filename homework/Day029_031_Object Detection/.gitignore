@@ -1,0 +1,13 @@
+*.pth
+__pycache__
+.ipynb_checkpoints
+*.py
+_DS_Store
+annotations
+images
+data
+demo
+layers
+utils
+*.png
+*.ipynb
